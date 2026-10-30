@@ -1,0 +1,9 @@
+# Raw data and any respondent-level files must never be committed
+data/*.xlsx
+data/*.csv
+*.xlsx
+*.xls
+__pycache__/
+.DS_Store
+
+data/anonymise_map.json

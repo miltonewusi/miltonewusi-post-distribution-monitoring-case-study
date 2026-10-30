@@ -1,0 +1,6 @@
+age_group,n,input_quality_good_%,inputs_appropriate_%,inputs_sufficient_%,needed_training_%,used_inputs_%,planted_seeds_%,applied_fertilizer_%,travel_over_1h_%,wait_over_1h_%,mean_transport_cost_LCU,cash_access_difficult_%,amount_differed_from_told_%
+18 to 35 years,85,100.0,100.0,97.6,81.2,100.0,76.5,95.3,24.7,43.5,199.0,4.7,1.2
+36 to 50 years,110,100.0,97.3,96.4,88.2,98.2,75.9,91.8,18.2,49.1,167.0,5.5,1.8
+51 to 65 years,93,100.0,100.0,88.2,92.4,98.9,81.5,92.5,9.7,46.2,155.0,5.4,5.4
+66 to 80 years,31,100.0,100.0,96.8,83.9,100.0,74.2,93.5,9.7,25.8,137.0,12.9,0.0
+81 years and above,3,100.0,100.0,100.0,100.0,100.0,100.0,100.0,0.0,33.3,67.0,0.0,0.0

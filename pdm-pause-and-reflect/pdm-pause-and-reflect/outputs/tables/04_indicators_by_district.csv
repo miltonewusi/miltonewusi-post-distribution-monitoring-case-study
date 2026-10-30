@@ -1,0 +1,3 @@
+district,n,input_quality_good_%,inputs_appropriate_%,inputs_sufficient_%,needed_training_%,used_inputs_%,planted_seeds_%,applied_fertilizer_%,travel_over_1h_%,wait_over_1h_%,mean_transport_cost_LCU,cash_access_difficult_%,amount_differed_from_told_%
+Eastmere,187,100.0,98.9,90.4,90.9,98.9,61.6,93.6,5.9,50.3,98.0,10.2,4.3
+Northvale,135,100.0,99.3,100.0,82.2,99.3,100.0,92.6,31.1,36.3,264.0,0.0,0.0

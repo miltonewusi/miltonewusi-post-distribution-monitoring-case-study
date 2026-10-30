@@ -1,0 +1,5 @@
+village,n,mean,median,mode,min,max
+Village A,104,52.3,51.5,49/53 (multimodal),23,87
+Village B,135,41.8,41.0,43,18,80
+Village C,83,46.0,45.0,29/30/40/51 (multimodal),19,75
+All,322,46.3,45.0,43,18,87

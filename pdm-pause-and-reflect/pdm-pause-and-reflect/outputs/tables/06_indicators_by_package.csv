@@ -1,0 +1,4 @@
+package,n,input_quality_good_%,inputs_appropriate_%,inputs_sufficient_%,needed_training_%,used_inputs_%,planted_seeds_%,applied_fertilizer_%,travel_over_1h_%,wait_over_1h_%,mean_transport_cost_LCU,cash_access_difficult_%,amount_differed_from_told_%
+Package 1,134,100.0,99.3,100.0,82.1,99.3,100.0,92.5,31.3,36.6,265.0,0.0,0.0
+Package 2,87,100.0,98.9,86.2,81.6,100.0,18.4,98.9,6.9,58.6,103.0,19.5,9.2
+Package 3,101,100.0,99.0,94.1,99.0,98.0,100.0,89.1,5.0,42.6,96.0,2.0,0.0
